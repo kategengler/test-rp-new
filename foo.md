@@ -1,1 +1,1 @@
-barfoo
+foo
