@@ -1,0 +1,17 @@
+{
+  "solution": {
+    "test-rp-new": {
+      "impact": "patch",
+      "oldVersion": "1.0.0",
+      "newVersion": "1.0.1",
+      "constraints": [
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :house: Internal"
+        }
+      ],
+      "pkgJSONPath": "./package.json"
+    }
+  },
+  "description": "## Release (2024-06-26)\n\ntest-rp-new 1.0.1 (patch)\n\n#### :house: Internal\n* `test-rp-new`\n  * [#2](https://github.com/kategengler/test-rp-new/pull/2) change ([@kategengler](https://github.com/kategengler))\n\n#### Committers: 1\n- Katie Gengler ([@kategengler](https://github.com/kategengler))\n"
+}
