@@ -2,10 +2,17 @@
   "name": "test-rp-new",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kategengler/test-rp-new.git"
+  },
+  "license": "ISC",
+  "author": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "devDependencies": {
+    "release-plan": "^0.9.0"
+  }
 }
